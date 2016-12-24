@@ -5,6 +5,8 @@ IBM Model M 122-key Terminal Keyboard Controller
 
 ![alt tag](http://web.archive.org/web/20150605191343/http://stephanos.io/wp-content/uploads/2014/08/Schematic.png)
 
+NOTE: Use Altium Designer 14 or newer for opening board design files and Microchip MPLAB X for compiling firmware.
+
 For more information, see the following articles:
 http://web.archive.org/web/20150330145112/http://stephanos.io/archives/625
 http://web.archive.org/web/20151021180750/http://stephanos.io/archives/647
